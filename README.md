@@ -3,10 +3,6 @@
 This is a sample 1-page HTML application for the topic of debate: Is it a crime to lie?
 Zhihan is the supporter, she believes that lying is a crime, and Alexandra, as the opponent, believes that lying is not a crime. The two divided their opinions into two sections and recorded them in the HTML application.
 
-## Installation
-
-TODO: Describe the installation process
-
 
 ## Contributing
 
@@ -19,8 +15,8 @@ TODO: Describe the installation process
 
 ## Credits
 
-TODO: Write credits
-// give accreditation to any resources / authors whose work you're using
+Chen Zhihan
+Lem Alexandra
 
 ## License
 
