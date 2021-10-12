@@ -15,8 +15,8 @@ Zhihan is the supporter, she believes that lying is a crime, and Alexandra, as t
 
 ## Credits
 
-Chen Zhihan
-Lem Alexandra
+Chen Zhihan and Lem Alexandra
+We are students of Fanshawe College
 
 ## License
 
